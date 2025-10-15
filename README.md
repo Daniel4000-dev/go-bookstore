@@ -1,1 +1,1 @@
-![flow chart](.github.com/Daniel4000-dev/go-movies-crud/public/go-bookstore.drawio.png)
+![flow chart](github.com/Daniel4000-dev/go-movies-crud/public/go-bookstore.drawio.png)
