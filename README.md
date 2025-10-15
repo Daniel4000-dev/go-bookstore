@@ -1,1 +1,1 @@
-![flow chart](.github.com/Daniel4000-dev/go-bookstore/public/go-bookstore.png)
+![flow chart](public/go-bookstore.png)
